@@ -25,3 +25,5 @@ hs_err_pid*
 *.properties
 .DS_Store
 .vscode
+
+technews/src/main/resources/application.properties
